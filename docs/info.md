@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Switch inputs connected to an AND gate control LED illumination.
 
 ## How to test
 
-Explain how to use your project
+Run the simulation, then switch on and off switches 1 and 2.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Polarized LED, Switches, AND gate.
